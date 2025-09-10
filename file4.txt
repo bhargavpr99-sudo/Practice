@@ -1,0 +1,1 @@
+Git status is used to check where the file present whether in staging area or workspace area
