@@ -1,0 +1,1 @@
+Git init is used to initialise the git repository
