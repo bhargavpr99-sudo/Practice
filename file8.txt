@@ -1,0 +1,1 @@
+we can use clone when we want to make copy of an existing repository onto your local machine
