@@ -1,0 +1,1 @@
+Merge is used to see the latest changes from one branch to another branch
