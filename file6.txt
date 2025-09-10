@@ -1,0 +1,1 @@
+Git push sends your local commit to the remote repository
