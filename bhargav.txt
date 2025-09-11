@@ -1,1 +1,3 @@
-Hi hello as we leant today some basic git commads
+
+Hi as today as we learnt some basic git commands
+ 
