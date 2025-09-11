@@ -1,1 +1,1 @@
-Git init is used to initialise the git repository
+Git init is used to initialise the git repository . We can use git hub and git lab for practice
