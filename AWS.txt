@@ -1,1 +1,3 @@
-We are AWS to become devops engineer
+We are AWS to become devops engineer.
+In AWS we are having many services like EC2,EFS,EBS etc
+We have S3 bucket also
