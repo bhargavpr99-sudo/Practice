@@ -1,1 +1,1 @@
-As we started git class from saturday
+As we discussed today git bare and non bare repository
